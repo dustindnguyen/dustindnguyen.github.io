@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Wed, 18 Aug 2021 00:00:00 -0400</lastBuildDate><atom:link href="https://dustindnguyen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CV</title>
+      <link>https://dustindnguyen.github.io/cv/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://dustindnguyen.github.io/cv/</guid>
+      <description>My CV can be found here.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://dustindnguyen.github.io/contact/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 -0400</pubDate>
@@ -46,15 +55,6 @@ first author  Mass-Loading and Non-Spherical Divergence in Hot Galactic Winds: I
       <guid>https://dustindnguyen.github.io/welcome/welcome/</guid>
       <description>Hello, my name is Dustin Nguyen and I am a fourth year PhD candidate at the Ohio State University. I work with professor Todd Thompson. I have information on myself, my research, CV, and contact on the right.
 Happy browsing!</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://dustindnguyen.github.io/cv/</link>
-      <pubDate>Sun, 25 Jul 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://dustindnguyen.github.io/cv/</guid>
-      <description>My CV can be found here.</description>
     </item>
     
   </channel>
