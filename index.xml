@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Wed, 18 Aug 2021 00:00:00 -0400</lastBuildDate><atom:link href="https://dustindnguyen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Simulation Gallery</title>
+      <link>https://dustindnguyen.github.io/simulation/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://dustindnguyen.github.io/simulation/</guid>
+      <description>Simulation gallery coming soon!
+(bugcat capoo)</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>https://dustindnguyen.github.io/research/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 -0400</pubDate>
@@ -15,7 +25,7 @@
       <guid>https://dustindnguyen.github.io/research/</guid>
       <description>I work in theoretical astrophysics focused on the physics and phenomenology of galactic starburst winds. For numerical studies, I use the massively-parallel GPU code, cholla, on the Pitzer cluster at the Ohio Supercomputer Center to run high resolution 3-dimensional hydro simulations.
 Research interests:  supernovae driven outflows hydrodynamic instabilities X-ray astrophysics  Publications You can find my publications listed here on arXiv or sao/nasa ads.
-first author  Nguyen, D. D., Thompson, T. A., Mass-Loading and Non-Spherical Divergence in Hot Galactic Winds: Implications for X-Ray Observations, 2021, Submitted to MNRAS Aug 2021 (Accepted Oct 2021), arXiv:2108.07343  co-author  Lopez, L.</description>
+first author  Nguyen, D. D., Thompson, T. A., Mass-Loading and Non-Spherical Divergence in Hot Galactic Winds: Implications for X-Ray Observations, Submitted Aug 2021, Accepted Oct 2021, arXiv:2108.07343, ads:2021MNRAS.tmp.2635N  co-author  Lopez, L. A., Mathur, S.</description>
     </item>
     
     <item>
@@ -44,7 +54,7 @@ My office is M2025 in the Physics Research Building at the main campus of Ohio S
       <pubDate>Wed, 18 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>https://dustindnguyen.github.io/about/</guid>
-      <description>A brief timeline: I was born in San Jose, California and moved to Gilbert, Arizona during elementary grade school. I then attended Arizona State University for my undergrad and then moved to Columbus, Ohio for the graduate phd program at the Ohio State University. I enjoy hiking at national parks and skiing. The picture above was taken at the one sad hiking destination in the flatlands of Ohio: Hocking hills. Below, is a picture I took while hiking the Iceberg Lake trail at Glacier National Park in summer 2021. Growing up in Arizona, I have been spoiled with a wide</description>
+      <description>A brief timeline: I was born in San Jose, California and moved to Gilbert, Arizona during elementary grade school. I then attended Arizona State University for my undergrad and then moved to Columbus, Ohio for the graduate phd program at the Ohio State University. I enjoy hiking at national parks, badminton, and skiing. The picture above was taken at the one sad hiking destination in the flatlands of Ohio: Hocking hills. Below, is a picture I took while hiking the Iceberg Lake trail at Glacier National Park in summer 2021. Growing up in Arizona, I have been spoiled with a</description>
     </item>
     
     <item>
