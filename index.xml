@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 24 May 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://dustindnguyen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
+      <title>contact</title>
       <link>https://dustindnguyen.com/contact/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 -0400</pubDate>
       
@@ -28,13 +28,13 @@ My office is M2025 in the Physics Research Building at the main campus of Ohio S
     </item>
     
     <item>
-      <title>Research</title>
+      <title>research</title>
       <link>https://dustindnguyen.com/research/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 -0400</pubDate>
       
       <guid>https://dustindnguyen.com/research/</guid>
       <description>I work in theoretical astrophysics focused on the physics and phenomenology of galactic starburst winds. For numerical studies, I use the massively-parallel GPU code, cholla, on the Pitzer cluster at the Ohio Supercomputer Center to run high resolution 3-dimensional hydro simulations.
-Research interests:  supernovae driven outflows hydrodynamic instabilities X-ray astrophysics  Publications You can find my publications listed here on arXiv or sao/nasa ads.
+research interests:  supernovae driven outflows hydrodynamic instabilities X-ray astrophysics  publications You can find my publications listed here on arXiv or sao/nasa ads.
 first author  Nguyen, D. D., Thompson, T. A., Mass-Loading and Non-Spherical Divergence in Hot Galactic Winds: Implications for X-Ray Observations, 2021, MNRAS, 508, 4, arXiv:2108.07343, ads:2021MNRAS.tmp.2635N  co-author  Lopez, L. A., Mathur, S., Nguyen, D.</description>
     </item>
     
@@ -49,7 +49,7 @@ Happy browsing!</description>
     </item>
     
     <item>
-      <title>CV</title>
+      <title>cv</title>
       <link>https://dustindnguyen.com/cv/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       
@@ -58,25 +58,25 @@ Happy browsing!</description>
     </item>
     
     <item>
-      <title>Nuclear Starburst Ring Simulations</title>
+      <title>galactic winds and bubbles from nuclear starburst rings</title>
       <link>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</guid>
-      <description>Summary Below, are embedded .gif files for Simulations \( \texttt{A} \) and \(\texttt{A}_\star \) from Nguyen &amp;amp; Thompson, 2022. The first set are 2d density, temperature, velocity, and entropy slices. The second set are rotated 3d temperature-weighted renders. The temperature weighting colors the hot \( 10^7 \)K component red, and the cooler \( 10^4 \)K component blue. The cool component transparency is signifigantly lowered such that the warm-hot structrure is prominently rendered.
+      <description>summary Below, are embedded .gif files for Simulations \( \texttt{A} \) and \(\texttt{A}_\star \) presented in Nguyen &amp;amp; Thompson, 2022. The first set are 2d density, temperature, velocity, and entropy slices. The second set are rotated 3d temperature-weighted renders. The temperature weighting colors the hot \( 10^7 \)K component red, and the cooler \( 10^4 \)K component blue. The cool component transparency is signifigantly lowered such that the warm-hot structrure reamins prominent when rendered.
 These movies are also available on vimeo, the links can be found here:
 2d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)
 3d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)</description>
     </item>
     
     <item>
-      <title>Simulation Gallery</title>
+      <title>simulation gallery</title>
       <link>https://dustindnguyen.com/simulation/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dustindnguyen.com/simulation/</guid>
       <description>Here are links to different pages that contain both 2d and 3d simulation movies. On each page are embedded gif files as well as links to vimeo, which may be useful if the embedded video does not correct play on device.
- 1. Nguyen &amp;amp; Thompson, 2022 : Nuclear Starburst Ring Simulations</description>
+ 1. Nguyen &amp;amp; Thompson, 2022 : galactic winds and bubbles from nuclear starburst rings</description>
     </item>
     
   </channel>
