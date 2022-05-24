@@ -6,7 +6,29 @@
     <description>Recent content on dustin nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://dustindnguyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dustindnguyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuclear Starburst Ring Simulations</title>
+      <link>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</guid>
+      <description>Summary Below, are embedded .gif files for Simulations \( \texttt{A} \) and \(\texttt{A}_\star \) from Nguyen &amp;amp; Thompson, 2022. The first set are 2d density, temperature, velocity, and entropy slices. The second set are rotated 3d temperature-weighted renders. The temperature weighting colors the hot \( 10^7 \)K component red, and the cooler \( 10^4 \)K component blue. The cool component transparency is signifigantly lowered such that the warm-hot structrure is prominently rendered.
+These movies are also available on vimeo, the links can be found here:
+2d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)
+3d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)</description>
+    </item>
+    
+    <item>
+      <title>Simulation Gallery</title>
+      <link>https://dustindnguyen.com/simulation/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dustindnguyen.com/simulation/</guid>
+      <description>Here are links to different pages that contain both 2d and 3d simulation movies. On each page are embedded gif files as well as links to vimeo, which may be useful if the embedded video does not correct play on device.
+ 1. Nguyen &amp;amp; Thompson, 2022 : Nuclear Starburst Ring Simulations</description>
+    </item>
+    
     <item>
       <title>Contact</title>
       <link>https://dustindnguyen.com/contact/</link>
@@ -55,16 +77,6 @@ Happy browsing!</description>
       
       <guid>https://dustindnguyen.com/cv/</guid>
       <description>My CV can be found here. Last updated 22 April 2022.</description>
-    </item>
-    
-    <item>
-      <title>Simulation Gallery</title>
-      <link>https://dustindnguyen.com/simulation/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dustindnguyen.com/simulation/</guid>
-      <description>Simulation gallery coming soon!
-(bugcat capoo)</description>
     </item>
     
   </channel>

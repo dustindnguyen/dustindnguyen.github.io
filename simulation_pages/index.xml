@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation_pages on dustin nguyen</title>
+    <link>https://dustindnguyen.com/simulation_pages/</link>
+    <description>Recent content in Simulation_pages on dustin nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dustindnguyen.com/simulation_pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuclear Starburst Ring Simulations</title>
+      <link>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</guid>
+      <description>Summary Below, are embedded .gif files for Simulations \( \texttt{A} \) and \(\texttt{A}_\star \) from Nguyen &amp;amp; Thompson, 2022. The first set are 2d density, temperature, velocity, and entropy slices. The second set are rotated 3d temperature-weighted renders. The temperature weighting colors the hot \( 10^7 \)K component red, and the cooler \( 10^4 \)K component blue. The cool component transparency is signifigantly lowered such that the warm-hot structrure is prominently rendered.
+These movies are also available on vimeo, the links can be found here:
+2d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)
+3d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)</description>
+    </item>
+    
+  </channel>
+</rss>
