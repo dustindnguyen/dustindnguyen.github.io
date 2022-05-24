@@ -6,7 +6,57 @@
     <description>Recent content on dustin nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dustindnguyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://dustindnguyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://dustindnguyen.com/contact/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://dustindnguyen.com/contact/</guid>
+      <description>The best way to reach me is through email at: nguyen.1971@osu.edu.
+My office is M2025 in the Physics Research Building at the main campus of Ohio State University.
+ </description>
+    </item>
+    
+    <item>
+      <title>Hello hello, welcome.</title>
+      <link>https://dustindnguyen.com/about/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://dustindnguyen.com/about/</guid>
+      <description>A brief timeline: I was born in San Jose, California and moved to Gilbert, Arizona during elementary grade school. I then attended Arizona State University for my undergrad and then moved to Columbus, Ohio for the graduate phd program at the Ohio State University. I enjoy backpacking/camping/hiking in nature and enjoy playing badminton. The picture above was taken at the one sad hiking destination in the flatlands of Ohio: Hocking hills. Below, is a picture I took while hiking the Iceberg Lake trail at Glacier National Park in summer 2021. Growing up in Arizona, I have been spoiled with a</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://dustindnguyen.com/research/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://dustindnguyen.com/research/</guid>
+      <description>I work in theoretical astrophysics focused on the physics and phenomenology of galactic starburst winds. For numerical studies, I use the massively-parallel GPU code, cholla, on the Pitzer cluster at the Ohio Supercomputer Center to run high resolution 3-dimensional hydro simulations.
+Research interests:  supernovae driven outflows hydrodynamic instabilities X-ray astrophysics  Publications You can find my publications listed here on arXiv or sao/nasa ads.
+first author  Nguyen, D. D., Thompson, T. A., Mass-Loading and Non-Spherical Divergence in Hot Galactic Winds: Implications for X-Ray Observations, 2021, MNRAS, 508, 4, arXiv:2108.07343, ads:2021MNRAS.tmp.2635N  co-author  Lopez, L. A., Mathur, S., Nguyen, D.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://dustindnguyen.com/welcome/welcome/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://dustindnguyen.com/welcome/welcome/</guid>
+      <description>Hello, my name is Dustin Nguyen and I am a fourth year PhD candidate at the Ohio State University. I work with professor Todd Thompson. I have information on myself, my research, CV, and contact on the right.
+Happy browsing!</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://dustindnguyen.com/cv/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dustindnguyen.com/cv/</guid>
+      <description>My CV can be found here. Last updated 24 May 2022.</description>
+    </item>
+    
     <item>
       <title>Nuclear Starburst Ring Simulations</title>
       <link>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</link>
@@ -27,56 +77,6 @@ These movies are also available on vimeo, the links can be found here:
       <guid>https://dustindnguyen.com/simulation/</guid>
       <description>Here are links to different pages that contain both 2d and 3d simulation movies. On each page are embedded gif files as well as links to vimeo, which may be useful if the embedded video does not correct play on device.
  1. Nguyen &amp;amp; Thompson, 2022 : Nuclear Starburst Ring Simulations</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://dustindnguyen.com/contact/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://dustindnguyen.com/contact/</guid>
-      <description>The best way to reach me is through email at: nguyen.1971@osu.edu.
-My office is M2025 in the Physics Research Building at the main campus of Ohio State University.
- </description>
-    </item>
-    
-    <item>
-      <title>Hello hello, welcome.</title>
-      <link>https://dustindnguyen.com/about/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://dustindnguyen.com/about/</guid>
-      <description>A brief timeline: I was born in San Jose, California and moved to Gilbert, Arizona during elementary grade school. I then attended Arizona State University for my undergrad and then moved to Columbus, Ohio for the graduate phd program at the Ohio State University. I enjoy backpacking/hiking at national parks, badminton, and skiing. The picture above was taken at the one sad hiking destination in the flatlands of Ohio: Hocking hills. Below, is a picture I took while hiking the Iceberg Lake trail at Glacier National Park in summer 2021. Growing up in Arizona, I have been spoiled with a</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://dustindnguyen.com/research/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://dustindnguyen.com/research/</guid>
-      <description>I work in theoretical astrophysics focused on the physics and phenomenology of galactic starburst winds. For numerical studies, I use the massively-parallel GPU code, cholla, on the Pitzer cluster at the Ohio Supercomputer Center to run high resolution 3-dimensional hydro simulations.
-Research interests:  supernovae driven outflows hydrodynamic instabilities X-ray astrophysics  Publications You can find my publications listed here on arXiv or sao/nasa ads.
-first author  Nguyen, D. D., Thompson, T. A., Mass-Loading and Non-Spherical Divergence in Hot Galactic Winds: Implications for X-Ray Observations, 2021, MNRAS, 508, 4, arXiv:2108.07343, ads:2021MNRAS.tmp.2635N  co-author  Lopez, L. A., Mathur, S., Nguyen, D.</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://dustindnguyen.com/welcome/welcome/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://dustindnguyen.com/welcome/welcome/</guid>
-      <description>Hello, my name is Dustin Nguyen and I am a fourth year PhD candidate at the Ohio State University. I work with professor Todd Thompson. I have information on myself, my research, CV, and contact on the right.
-Happy browsing!</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://dustindnguyen.com/cv/</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dustindnguyen.com/cv/</guid>
-      <description>My CV can be found here. Last updated 22 April 2022.</description>
     </item>
     
   </channel>
