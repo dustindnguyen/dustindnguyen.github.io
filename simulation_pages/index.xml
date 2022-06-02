@@ -13,10 +13,9 @@
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</guid>
-      <description>summary Below, are embedded .gif files for Simulations \( \texttt{A} \) and \(\texttt{A}_\star \) presented in Nguyen &amp;amp; Thompson, 2022. The first set are 2d density, temperature, velocity, and entropy slices. The second set are rotated 3d temperature-weighted renders. The temperature weighting colors the hot \( 10^7 \)K component red, and the cooler \( 10^4 \)K component blue. The cool component transparency is signifigantly lowered such that the warm-hot structrure reamins prominent when rendered.
+      <description>summary Below, are embedded .gif files for Simulations \( \texttt{A} \) and \(\texttt{A}_\star \) presented in my recent paper: Nguyen &amp;amp; Thompson, 2022. The first set are 2d density, temperature, velocity, and entropy slices. The second set are rotated 3d temperature-weighted renders. The temperature weighting colors the hot \( 10^7 \)K component red, and the cooler \( 10^4 \)K component blue. The cool component transparency is signifigantly lowered such that the warm-hot structrure reamins prominent when rendered.
 These movies are also available on vimeo, the links can be found here:
-2d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)
-3d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)</description>
+2d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)</description>
     </item>
     
   </channel>
