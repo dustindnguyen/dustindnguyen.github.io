@@ -6,7 +6,57 @@
     <description>Recent content on dustin nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 -0600</lastBuildDate><atom:link href="https://dustindnguyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 -0600</lastBuildDate><atom:link href="https://dustindnguyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello hello, welcome.</title>
+      <link>https://dustindnguyen.com/about/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 -0600</pubDate>
+      
+      <guid>https://dustindnguyen.com/about/</guid>
+      <description>A brief timeline: I was born in San Jose, California and moved to Gilbert, Arizona during elementary grade school. I then attended Arizona State University for my undergrad and then moved to Columbus, Ohio for the graduate phd program at the Ohio State University. I enjoy backpacking/camping/hiking in nature and enjoy playing badminton. The picture above (2021) was taken at the one sad hiking destination in the flatlands of Ohio: Hocking hills. Below, is a picture I took while hiking the Iceberg Lake trail at Glacier National Park in summer 2021. Growing up in Arizona, I have been spoiled with</description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://dustindnguyen.com/research/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 -0600</pubDate>
+      
+      <guid>https://dustindnguyen.com/research/</guid>
+      <description>I work in theoretical astrophysics and machine-learning.
+For astro-theory studies, I use the massively-parallel GPU code, cholla, on the Pitzer cluster at the Ohio Supercomputer Center to run high resolution 3-dimensional hydro simulations.
+For machine-learning studies, I use the computationally-efficient and modularized framework, SciML. The SciML framework allows for quick implementation of advanced optimization schemes (like ADAM) and construction of neural networks embedded in partial differential equations (i.e., neural partial differential equations).
+research activities: astrophysics  multiphase outflows from starburst galaxies  the physics of cold cloud entrainment and non-spherical flow divergence in hot, 10 million degree Kelvin, flows development of ring-like starburst model to explain layered multi-temperature flows    machine learning  neural partial differential equations  (details coming soon)    publications You can find my publications listed here on arXiv or sao/nasa ads.</description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>https://dustindnguyen.com/cv/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dustindnguyen.com/cv/</guid>
+      <description>My cv can be found here. Last updated 14 July 2022.</description>
+    </item>
+    
+    <item>
+      <title>simulation gallery</title>
+      <link>https://dustindnguyen.com/simulation/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dustindnguyen.com/simulation/</guid>
+      <description>Here are links to different pages that contain both 2d and 3d simulation movies. On each page are embedded gif files as well as links to vimeo, which may be useful if the embedded video does not correct play on device.
+ 1. Nguyen &amp;amp; Thompson, 2022 : galactic winds and bubbles from nuclear starburst rings</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://dustindnguyen.com/welcome/welcome/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 -0600</pubDate>
+      
+      <guid>https://dustindnguyen.com/welcome/welcome/</guid>
+      <description>Hello, my name is Dustin Nguyen and I am a fifth year PhD candidate at The Ohio State University and conduct astrophysical research with Professor Todd Thompson. I also work with Arvind Mohan at Los Alamos National Laboratory (LANL) on machine learning topics. I have information on myself, my research, CV, and contact on the right.
+Happy browsing!</description>
+    </item>
+    
     <item>
       <title>contact</title>
       <link>https://dustindnguyen.com/contact/</link>
@@ -19,46 +69,6 @@ My office is M2025 in the Physics Research Building at the main campus of Ohio S
     </item>
     
     <item>
-      <title>Hello hello, welcome.</title>
-      <link>https://dustindnguyen.com/about/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 -0600</pubDate>
-      
-      <guid>https://dustindnguyen.com/about/</guid>
-      <description>A brief timeline: I was born in San Jose, California and moved to Gilbert, Arizona during elementary grade school. I then attended Arizona State University for my undergrad and then moved to Columbus, Ohio for the graduate phd program at the Ohio State University. I enjoy backpacking/camping/hiking in nature and enjoy playing badminton. The picture above was taken at the one sad hiking destination in the flatlands of Ohio: Hocking hills. Below, is a picture I took while hiking the Iceberg Lake trail at Glacier National Park in summer 2021. Growing up in Arizona, I have been spoiled with a</description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>https://dustindnguyen.com/research/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 -0600</pubDate>
-      
-      <guid>https://dustindnguyen.com/research/</guid>
-      <description>I work in theoretical astrophysics focused on the physics and phenomenology of galactic starburst winds. For numerical studies, I use the massively-parallel GPU code, cholla, on the Pitzer cluster at the Ohio Supercomputer Center to run high resolution 3-dimensional hydro simulations.
-research interests:  supernovae driven outflows hydrodynamic instabilities X-ray astrophysics  publications You can find my publications listed here on arXiv or sao/nasa ads.
-first author   Nguyen, D. D., Thompson, T. A., Galactic winds and bubbles from nuclear starburst rings, 2022, submitted (may 25), arXiv:2205.13465
-  Nguyen, D. D., Thompson, T. A., Mass-Loading and Non-Spherical Divergence in Hot Galactic Winds: Implications for X-Ray Observations, 2021, MNRAS, 508, 4, arXiv:2108.</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://dustindnguyen.com/welcome/welcome/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 -0600</pubDate>
-      
-      <guid>https://dustindnguyen.com/welcome/welcome/</guid>
-      <description>Hello, my name is Dustin Nguyen and I am a fourth year PhD candidate at the Ohio State University. I work with professor Todd Thompson. I have information on myself, my research, CV, and contact on the right.
-Happy browsing!</description>
-    </item>
-    
-    <item>
-      <title>cv</title>
-      <link>https://dustindnguyen.com/cv/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dustindnguyen.com/cv/</guid>
-      <description>My cv can be found here. Last updated 25 May 2022.</description>
-    </item>
-    
-    <item>
       <title>galactic winds and bubbles from nuclear starburst rings</title>
       <link>https://dustindnguyen.com/simulation_pages/nguyen_thompson_2022_rings/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
@@ -67,16 +77,6 @@ Happy browsing!</description>
       <description>summary Below, are embedded .gif files for Simulations \( \texttt{A} \) and \(\texttt{A}_\star \) presented in my recent paper: Nguyen &amp;amp; Thompson, 2022. The first set are 2d density, temperature, velocity, and entropy slices. The second set are rotated 3d temperature-weighted renders. The temperature weighting colors the hot \( 10^7 \)K component red, and the cooler \( 10^4 \)K component blue. The cool component transparency is signifigantly lowered such that the warm-hot structrure reamins prominent when rendered.
 These movies are also available on vimeo, the links can be found here:
 2d Vimeo links: Simulation \( \texttt{A} \) | Simulation \( \texttt{A}_\star \)</description>
-    </item>
-    
-    <item>
-      <title>simulation gallery</title>
-      <link>https://dustindnguyen.com/simulation/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dustindnguyen.com/simulation/</guid>
-      <description>Here are links to different pages that contain both 2d and 3d simulation movies. On each page are embedded gif files as well as links to vimeo, which may be useful if the embedded video does not correct play on device.
- 1. Nguyen &amp;amp; Thompson, 2022 : galactic winds and bubbles from nuclear starburst rings</description>
     </item>
     
   </channel>
