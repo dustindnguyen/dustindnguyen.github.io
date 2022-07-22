@@ -24,7 +24,7 @@
       <guid>https://dustindnguyen.com/research/</guid>
       <description>I work in theoretical astrophysics and machine-learning.
 For astro-theory studies, I use the massively-parallel GPU code, cholla, on the Pitzer cluster at the Ohio Supercomputer Center to run high resolution 3-dimensional hydro simulations.
-For machine-learning studies, I use the computationally-efficient and modularized framework, SciML. The SciML framework allows for quick implementation of advanced optimization schemes (like ADAM) and construction of neural networks embedded in partial differential equations (i.e., neural partial differential equations).
+For machine-learning studies, I use the computationally-efficient and modularized framework, SciML. SciML allows for quick implementation of advanced optimization schemes (like ADAM) and construction of neural networks embedded in partial differential equations (i.e., neural partial differential equations).
 research activities: astrophysics  multiphase outflows from starburst galaxies  the physics of cold cloud entrainment and non-spherical flow divergence in hot, 10 million degree Kelvin, flows development of ring-like starburst model to explain layered multi-temperature flows    machine learning  neural partial differential equations  (details coming soon)    publications You can find my publications listed here on arXiv or sao/nasa ads.</description>
     </item>
     
