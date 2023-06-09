@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dustin nguyen</title>
+    <link>https://example.com/</link>
+    <description>Recent content on dustin nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://example.com/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/aboutme/</guid>
+      <description>brief biography I was born in San Jose, California and grew up in Gilbert, Arizona. My education is:
+B.Sc. Physics &amp;amp; B.Sc. Astrophysics at Arizona State University (2014-2018) M.Sc. Physics at Ohio State University (2018-2021) Ph.D. Physics at Ohio State University (2018-present) I like camping, hiking, bird watching, cycling, and making pour over coffee.</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>contact information I can be reached via email:
+dnguyen.phys@gmail.com or LinkedIn messaging:
+https://www.linkedin.com/in/dustinnguyen24/ </description>
+    </item>
+    
+    <item>
+      <title>ML_project1</title>
+      <link>https://example.com/ml_project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ml_project1/</guid>
+      <description>Hello</description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://example.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/research/</guid>
+      <description>I am actively working on both machine learning and astrophysical research. In the last year, I have primarily focused on scientific machine learning.
+The most up-to-date list of my publications can be found on ADS or arXiv.
+machine learning research 1 submitted independent paper Using neural networks as individual terms within ODEs/PDEs to learn physics from data. :smiley:
+project 1: neural astrophysical wind models. (submitted). astrophysics research 4 first author papers, 2 co-author papers The bulk of my thesis research is focused on developing models to better explain observations of galactic starburst winds.</description>
+    </item>
+    
+  </channel>
+</rss>
