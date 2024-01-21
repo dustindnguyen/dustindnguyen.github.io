@@ -14,7 +14,7 @@
       
       <guid>https://example.com/aboutme/</guid>
       <description>brief biography 🍮 I was born in San Jose, California and grew up in Gilbert, Arizona. My education is:
-B.Sc. Physics &amp;amp; B.Sc. Astrophysics at Arizona State University (2014-2018) M.Sc. Physics at Ohio State University (2018-2021) Ph.D. Physics at Ohio State University (2018-present) I like camping, hiking, bird watching, cycling, and making pour over coffee.</description>
+B.Sc. Physics &amp;amp; B.Sc. Astrophysics at Arizona State University (2014-2018) M.Sc. Physics at Ohio State University (2018-2021) Ph.D. Physics at Ohio State University (2018-2023) I like camping, hiking, bird watching, cycling, and making pour over coffee.</description>
     </item>
     
     <item>
@@ -43,10 +43,9 @@ https://www.linkedin.com/in/dustinnguyen24/ </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/research/</guid>
-      <description>I am actively working on both machine learning and astrophysical research. In the last two years, I have primarily focused on scientific machine learning.
+      <description>I am actively working on both machine learning and astrophysical research. In the last two years, I have primarily focused on scientific machine learning with Universal Differential Equations.
 The most up-to-date list of my publications can be found on ADS or arXiv.
-machine learning research 🤖🧠 2 papers into ML workshops (1 independent, 1 first author) Neural ODEs/PDEs Using neural networks as individual terms within ODEs/PDEs to learn physics from data.
-Neural astrophysical wind models Nguyen ICML 2023 Workshop on Machine Learning for Astrophysics Poster Neural ODEs as a discovery tool to characterize the hot galactic wind of M82 Nguyen et al.</description>
+machine learning research 🤖🧠 2 papers into ML workshops (1 independent, 1 first author) Neural ODEs/PDEs Using neural networks as individual terms within ODEs/PDEs to learn physics from data.</description>
     </item>
     
   </channel>
