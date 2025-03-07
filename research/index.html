@@ -44,7 +44,7 @@ The most up-to-date list of my publications can be found on ADS or arXiv. I have
 List of SciML related publications (&#43; denotes co-authors):
 Nguyen, ICML 2023 Workshop on Machine Learning for Astrophysics Nguyen&#43;, NeurIPS 2023 Workshop on Machine Learning and the Physical Sciences 🎧🪴💻☕️🎧🪴💻☕️🎧🪴💻☕️🎧🪴💻☕️🎧🪴💻☕️🎧🪴💻☕️🎧🪴💻☕️🎧🪴💻☕️">
 
-<meta itemprop="wordCount" content="1376"><meta itemprop="image" content="https://example.com/images/share.png"/>
+<meta itemprop="wordCount" content="1374"><meta itemprop="image" content="https://example.com/images/share.png"/>
 <meta itemprop="keywords" content="" />
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -359,11 +359,12 @@ class ControlledNeuralODE(nn.Module):
         self.func.dt = 0.1
         pred = odeint(self.func, y0, t_span, method=&#39;rk4&#39;, options={&#39;step_size&#39;: self.func.dt})
         return pred.transpose(0, 1)
-</code></pre><p>All that is left is to train the model. I use 2000 epochs for this demonstration of fitting the training data. Below is the result for training. I showcase 3 out of 50 trajectories.</p>
-<p><img src="/ncode/trained_vs_untrained.png" alt="ncode_trained"></p>
-<p>Below is a gif of the training for the 3 trajectories above, for the first 1000 epochs. Again, during training all initial conditions are simulationeously evolved forward per timestep using their respective controls. The loss is evaluated over all trajectories over both position and velocity states over all time.</p>
+</code></pre><p>All that is left is to train the model. I use 2000 epochs for this demonstration of fitting the training data.
+Below is a gif of the training for the 3 trajectories above, for the first 1000 epochs. Again, during training all initial conditions are simulationeously evolved forward per timestep using their respective controls. The loss is evaluated over all trajectories over both position and velocity states over all time.</p>
 <p><img src="/ncode/ncode.gif" alt="ncode_gif"></p>
 <p>It is apparent that the neural network $\mathrm{NN}(y,u,t)$, when given controls $u(t)$, appears to have learned the dynamics of the model enough to fit the training data. A more careful treatment is required to evaluate performance outside of the training data, but is well-beyond the scope of this example.</p>
+<p>Here is a static comparison between trained and untrained neural ODEs.</p>
+<p><img src="/ncode/trained_vs_untrained.png" alt="ncode_trained"></p>
 <hr>
 <hr>
 <h2 id="phd-research-2018-2023">PhD Research (2018-2023)</h2>
