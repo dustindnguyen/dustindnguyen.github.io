@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Dustin Nguyen</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Dustin Nguyen</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Dustin Nguyen.</copyright>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://example.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/resume/</guid>
+      <description>&lt;h2 id=&#34;resume&#34;&gt;resume&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.com/Dustin_Nguyen_Resume.pdf&#34;&gt;Dustin_Nguyen_Resume.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Controlled Neural ODE</title>
+      <link>https://example.com/controlled-neural-ode/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/controlled-neural-ode/</guid>
+      <description>&lt;p&gt;In this &lt;a href=&#34;https://github.com/dustindnguyen/2024_Neural_ODE_Forced_Harmonic_Oscillator&#34;&gt;repo&lt;/a&gt; I showcase a simple application of Controlled Neural ODEs as a surrogate model of a physical system. In this case, it is the Forced-and-Damped Simple Harmonic Oscillator.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A brief recap on Neural ODEs&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;A Controlled ODE describes the rate of change of a state (vector) as:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;dy = f(y, t, u) \ dt&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;where $f(y, t, u)$ is a function that takes in state $y$, time $t$, and non-state variables $u$. In this case, $u$ are external controls. A Neural ODE replaces analytic function $f$ with a neural network $f_{NN}$ either partially, or entirely. A Neural ODE can be interpretted as the continuos analog of a Residual Neural Network.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

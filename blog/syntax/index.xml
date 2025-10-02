@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntax on Dustin Nguyen</title>
+    <link>http://localhost:1313/blog/syntax/</link>
+    <description>Recent content in Syntax on Dustin Nguyen</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Dustin Nguyen.</copyright>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Controlled Neural ODE</title>
+      <link>http://localhost:1313/controlled-neural-ode/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/controlled-neural-ode/</guid>
+      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
