@@ -41,7 +41,7 @@
   <meta itemprop="description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements.">
   <meta itemprop="datePublished" content="2025-03-01T00:00:00+00:00">
   <meta itemprop="dateModified" content="2025-03-01T00:00:00+00:00">
-  <meta itemprop="wordCount" content="654">
+  <meta itemprop="wordCount" content="740">
   <meta itemprop="image" content="https://dustindnguyen.github.io/images/share.png">
   <meta itemprop="keywords" content="SciML,NeuralODE,TimeSeries">
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -249,7 +249,8 @@
 <p>$$
 dy = f(y, t, u) \ dt
 $$</p>
-<p>where $f(y, t, u)$ is a function that takes in state $y$, time $t$, and non-state variables $u$. In this case, $u$ are external controls. A Neural ODE replaces analytic function $f$ with a neural network $f_{NN}$ either partially, or entirely. A Neural ODE can be interpretted as the continuos analog of a Residual Neural Network.</p>
+<p>where $f(y, t, u)$ is a function that takes in state $y$, time $t$, and non-state variables $u$. In this case, $u$ are external controls. A Neural ODE replaces analytic function $f$ with a neural network $f_{NN}$ either partially, or entirely. The motivation for replacing some or all of existing analytic functions is: 1. The analytical function is computationally expensive (e.g., requires integrals or is very detailed), or 2. The analytic function is not known and can be learned from the data.</p>
+<p>A Neural ODE can be interpretted as the continuos analog of a Residual Neural Network. A Controlled Neural ODE is not the same architecture as a Neural Control Differential Equation (Neural CDE), which is the continuous analog of a Recurrent Neural Network (RNN). A Controlled Neural ODE does not require external control paths (i.e., interpolations) as a Neural CDE does.</p>
 <p><strong>A brief recap on the physical system</strong>:</p>
 <p>The simple harmonic oscillator describes the acceleration of a mass on a spring as:</p>
 <p>$$
